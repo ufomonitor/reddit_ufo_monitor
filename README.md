@@ -20,13 +20,15 @@ This Python script monitors the activity on the r/UFOs subreddit, tracking activ
    cd ufo-subreddit-monitor
 
 2. **Install Dependencies: Ensure you have Python 3.x installed. Install the required Python package:**
-   ```pip install praw
-3. ***Set Up Reddit API Credentials:***
+   ```bash
+   pip install praw
+4. ***Set Up Reddit API Credentials:***
    Go to Reddit Apps and create a new script application. Note down the client_id, client_secret, and user_agent. Update the script with your Reddit API credentials.
 
 ## Usage
 1. **Run the Script:**
-   ```python ufo_monitor.py
+   ```bash
+   python ufo_monitor.py
 
 Output Files:
 
