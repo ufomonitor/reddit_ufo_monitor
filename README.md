@@ -32,5 +32,8 @@ This Python script monitors the activity on the r/UFOs subreddit, tracking activ
 
 Output Files:
 
-ufo_monitor.txt: Main log file with active users, new comment upvotes, and significant comment details.
-ufo_monitor_adv.txt: Detailed verbose log with upvote changes for all tracked comments.
+ufo_monitor.txt: 
+Main log file with active users, new comment upvotes, and significant comment details.
+
+ufo_monitor_adv.txt: 
+Detailed verbose log with upvote changes for all tracked comments.
