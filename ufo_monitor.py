@@ -124,5 +124,5 @@ def monitor_upvote_changes():
     except KeyboardInterrupt:
         print("\nMonitoring stopped.")
 
-if you__name__ == "__main__":
+if __name__ == "__main__":
     monitor_upvote_changes()
